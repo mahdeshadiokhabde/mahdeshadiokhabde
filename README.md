@@ -1,7 +1,8 @@
 www.mahdeshadiokhande
 .com
 <!--
-**mahdeshadiokhabde/mahdeshadiokhabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahdeshadiokhande![2024-10-03(1)](https://github.com/user-attachments/assets/1a28ae99-fcb9-485d-9a57-d907766f0471)
+de/mahdeshadiokhabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
